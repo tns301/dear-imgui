@@ -1,22 +1,9 @@
 {
-  "name": "4nig-dearimgui",
-  "version": "0.0.1",
-  "displayName": "4Nig Dearimgui",
-  "description": "Bloat-free Immediate Mode Graphical User interface",
-  "author": {
-    "name": "4nig"
-  },
-  "keywords": [
-    "dear",
-    "imgui",
-    "ui"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tns301/dear-imgui.git"
-  },
-  "dependencies": {
-    "com.unity.collections": "2.5.7"
-  },
-  "type": "library"
+  "name": "nl.elraccoone.canvas-visualizer",
+  "displayName": "Canvas Visualizer",
+  "version": "1.4.2",
+  "unity": "2018.3",
+  "description": "The canvas visualizer is an editor util that helps you visualise all of your rectangle transforms within your canvas for easier navigation and building while working on your user interface.",
+  "type": "library",
+  "hideInEditor": false,
 }
