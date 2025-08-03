@@ -1,5 +1,5 @@
 {
-  "name": "com.4nig.dearimgui",
+  "name": "4nig-dearimgui",
   "version": "0.0.1",
   "displayName": "4Nig Dearimgui",
   "description": "Bloat-free Immediate Mode Graphical User interface",
@@ -11,6 +11,10 @@
     "imgui",
     "ui"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tns301/dear-imgui.git"
+  },
   "dependencies": {
     "com.unity.collections": "2.5.7"
   },
