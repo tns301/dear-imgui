@@ -8,5 +8,8 @@
     "imgui",
     "ui"
   ],
-  "type": "library"
+  "type": "library",
+  "dependencies": {
+    "com.unity.collections": "2.5.7"
+  },
 }
