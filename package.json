@@ -1,9 +1,26 @@
 {
-  "name": "nl.elraccoone.canvas-visualizer",
-  "displayName": "Canvas Visualizer",
-  "version": "1.4.2",
-  "unity": "2018.3",
-  "description": "The canvas visualizer is an editor util that helps you visualise all of your rectangle transforms within your canvas for easier navigation and building while working on your user interface.",
-  "type": "library",
-  "hideInEditor": false,
+  "name": "awesome-unity-packages",
+  "version": "1.0.1",
+  "description": "A frequently updated, hand-picked and curated list of delightful and awesome open-source Unity Packages.",
+  "main": "README.md",
+  "scripts": {
+    "test": "markdownlint README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffreylanters/awesome-unity-packages.git"
+  },
+  "keywords": [
+    "list",
+    "awesome",
+    "opensource",
+    "package",
+    "unity",
+    "dotnet"
+  ],
+  "author": "Jeffrey Lanters",
+  "bugs": {
+    "url": "https://github.com/jeffreylanters/awesome-unity-packages/issues"
+  },
+  "homepage": "https://github.com/jeffreylanters/awesome-unity-packages#readme"
 }
