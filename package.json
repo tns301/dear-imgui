@@ -11,5 +11,5 @@
   "type": "library",
   "dependencies": {
     "com.unity.collections": "2.5.7"
-  },
+  }
 }
