@@ -1,0 +1,18 @@
+{
+  "name": "com.4nig.dearimgui",
+  "version": "0.0.1",
+  "displayName": "4Nig Dearimgui",
+  "description": "Bloat-free Immediate Mode Graphical User interface",
+  "author": {
+    "name": "4nig"
+  },
+  "keywords": [
+    "dear",
+    "imgui",
+    "ui"
+  ],
+  "dependencies": {
+    "com.unity.collections": "2.5.7"
+  },
+  "type": "library"
+}
