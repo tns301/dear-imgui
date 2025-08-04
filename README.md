@@ -12,8 +12,6 @@ Full Dear Imgui implementation (based on [ImGui.NET](https://github.com/ImGuiNET
 
 This package uses Dear ImGui C bindings by [cimgui](https://github.com/cimgui/cimgui) and the C# wrapper by [ImGui.NET](https://github.com/mellinoe/ImGui.NET).
 
-The development project for the package can be found at [https://github.com/TylkoDemon/dear-imgui-unity](https://github.com/TylkoDemon/dear-imgui-unity).
-
 ### Limitation
 
 To draw Dear Imgui after Screen-Space Overlay UI, we use another Screen-Space Overlay canvas set to maximum render order, which then draws our Imgui via UI Shader.
